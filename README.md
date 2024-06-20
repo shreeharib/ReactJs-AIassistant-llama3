@@ -19,7 +19,11 @@ Introducing our React JS AI Assistant, designed specifically to assist programme
 #### How to install ollama?
 
 visit this website (https://ollama.com/download) and download the file according to your os and install it in your pc. You just need to follow normal installation procedures. Its easy
-make sure you run the ollama model using this command "	ollama run llama3" before starting your streamlit app.
+make sure you run the ollama model using this command 
+```bash
+  ollama run llama3
+```
+before starting your streamlit app.
 
 #### How to get langsmith API key ?
 
