@@ -6,3 +6,23 @@ Introducing our React JS AI Assistant, designed specifically to assist programme
 ![preventpa](https://github.com/shreeharib/ReactJs-AIassistant-llama3-ollama/assets/107598445/dc349ae8-b103-4d27-98d1-645523c0000f)
 # Monitored using Langsmith
 ![monitoring](https://github.com/shreeharib/ReactJs-AIassistant-llama3-ollama/assets/107598445/b670c7e1-a0f6-4af4-84f9-4c04dbbbab48)
+
+## How to run this?
+
+    1. clone the repo to your local system
+    2. get into the working directory using cd -command
+    3. install the requirements correctly as mentioned in the requirements.txt file
+    4. Then go to the terminal and use this command "streamlit run app.py" to run the app in your local host.
+
+## FAQ
+
+#### How to install ollama?
+
+visit this website (https://ollama.com/download) and download the file according to your os and install it in your pc. You just need to follow normal installation procedures. Its easy
+make sure you run the ollama model using this command "	ollama run llama3" before starting your streamlit app.
+
+#### How to get langsmith API key ?
+
+visit this website (smith.lanchain.com) and go to the settings in left side bottom and create your own Api key and copy-paste in the environment variable
+
+
